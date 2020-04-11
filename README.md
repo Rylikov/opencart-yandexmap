@@ -1,6 +1,5 @@
 # opencart-yandexmap
 
-Порт модуля Yandex.Market 2.0 для opencart 3.x
-Оригинал и инструкции можно найти по ссылке https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=22403
+Port of the Yandex.Market 2.0 module for opencart 3. x the Original and instructions can be found at the link https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=22403
 
-Для установки скачайте zip архив и дайте имя файла с расширением .ocmod.zip
+To install, download the zip archive and give the file name with the extension .ocmod.zip
